@@ -2,8 +2,6 @@ package org.warehouse;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.warehouse.Entity.*;
-
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.stream.Collectors;

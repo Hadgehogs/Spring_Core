@@ -2,9 +2,6 @@ package org.warehouse;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.warehouse.Config.Config;
-import org.warehouse.Entity.Absolut;
-import org.warehouse.Entity.Warehouse;
-import org.warehouse.Entity.Worker;
 
 public class Runner {
 
